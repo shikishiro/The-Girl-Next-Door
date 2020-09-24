@@ -1,0 +1,9 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/splash.rpy", line 12: is not terminated with a newline. (Check strings and parenthesis.)
+        splash_messages = [
+
+Ren'Py Version: Ren'Py 7.3.5.606
+Tue Jul 28 16:31:42 2020
